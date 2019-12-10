@@ -1,10 +1,12 @@
 
 ### Questions
-- No questions just yet...
+* Do you need to complete everything in the curriculum?
+    * environment setup not working on learn
+* Only clone labs or anything where you're coding on your machine
+* 
 
 ### Objectives
 YWBAT
-- loop through a dictionary and get specific items
 - manipulate a string for a desired result
 - use method chaining to manipulate a string
     - method chaining - a function of an object's class
@@ -12,6 +14,7 @@ YWBAT
 - use the zip function to iterate over 2 lists
 - use list comprehension to create a list
     - list comprehension - building a list inline (within a single line of code)
+- loop through a dictionary and get specific items
 
 ### Outline
 
